@@ -1,0 +1,4 @@
+﻿  lab3.c
+C:\Users\Dea\source\repos\Project23\Project23\lab3.c(233,19): warning C4047: 'return': 'int' differs in levels of indirection from 'Pozicija'
+C:\Users\Dea\source\repos\Project23\Project23\lab3.c(246,39): warning C4047: '=': 'Pozicija' differs in levels of indirection from 'int'
+  Project23.vcxproj -> C:\Users\Dea\source\repos\Project23\Debug\Project23.exe
